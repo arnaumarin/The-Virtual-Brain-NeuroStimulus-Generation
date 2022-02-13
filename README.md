@@ -1,9 +1,9 @@
-# Modeling Brain Dynamics in Brain Tumor Patients Using the Virtual Brain  
-In this demo, we show how to simulate large-scale brain dynamics using The Virtual Brain, an open-source neuroinformatics platform. 
+# Stimulus building with Static Optimization
+under constr
 ## Introduction  
-We 
+
 ## Load Individual Connectivity
-Connectivity input data can be found in 
+
 <br>
 Put Input data folder in the same directory of this python notebook.
 Input data needs to follow the directory structure below:
