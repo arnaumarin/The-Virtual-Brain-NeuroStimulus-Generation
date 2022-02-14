@@ -5,6 +5,7 @@ conda create -y --name tumor python=3 nomkl numba scipy numpy
 conda install -y --name tumor -c conda-forge jupyterlab
 conda activate tumor
 conda install tvb-gdist tvb-data tvb-library
+conda install pandas
 pip install --upgrade pip
 pip install tvb-contrib
 
