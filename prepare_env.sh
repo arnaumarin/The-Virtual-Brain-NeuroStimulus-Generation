@@ -4,10 +4,9 @@ conda update -n base -c defaults conda
 conda create -y --name tumor python=3 nomkl numba scipy numpy
 conda install -y --name tumor -c conda-forge jupyterlab
 conda activate tumor
-conda install tvb-gdist tvb-data tvb-library
-conda install pandas
+conda install tvb-gdist tvb-data tvb-library pandas
 pip install --upgrade pip
 pip install tvb-contrib
 
 # Next launch Jupyter and go through TVB_braintumor.ipynb
-jupyter notebook
+#jupyter notebook
